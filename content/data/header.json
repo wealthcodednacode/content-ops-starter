@@ -57,6 +57,17 @@
                     "iconPosition": "left",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Twitter",
+                    "altText": "Twitter",
+                    "url": "https://x.com/wealthcodedna",
+                    "showIcon": true,
+                    "icon": "twitter",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "primary",
