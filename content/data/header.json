@@ -44,7 +44,8 @@
                     "icon": "facebook",
                     "iconPosition": "left",
                     "style": "secondary",
-                    "elementId": ""
+                    "elementId": "",
+                    "label": "Fan Page"
                 }
             ],
             "labelStyle": "primary",
