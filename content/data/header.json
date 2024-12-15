@@ -68,6 +68,17 @@
                     "iconPosition": "left",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "YouTube",
+                    "altText": "YouTube",
+                    "url": "https://www.youtube.com/@wealthdna-code",
+                    "showIcon": true,
+                    "icon": "youtube",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "primary",
