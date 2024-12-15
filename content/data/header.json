@@ -35,6 +35,16 @@
                     "style": "secondary",
                     "elementId": "",
                     "label": "Git Hub"
+                },
+                {
+                    "type": "Link",
+                    "altText": "Facebook",
+                    "url": "https://www.facebook.com/WealthCode.DnaCode",
+                    "showIcon": true,
+                    "icon": "facebook",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "primary",
