@@ -32,6 +32,16 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
+                },
+                {
+                    "type": "Link",
+                    "altText": "GitHub",
+                    "url": "/https://github.com/wealthcodednacode",
+                    "showIcon": true,
+                    "icon": "github",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
