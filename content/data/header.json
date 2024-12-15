@@ -33,7 +33,8 @@
                     "icon": "github",
                     "iconPosition": "left",
                     "style": "secondary",
-                    "elementId": ""
+                    "elementId": "",
+                    "label": "Git Hub"
                 }
             ],
             "labelStyle": "primary",
