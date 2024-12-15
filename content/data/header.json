@@ -46,6 +46,17 @@
                     "style": "secondary",
                     "elementId": "",
                     "label": "Fan Page"
+                },
+                {
+                    "type": "Link",
+                    "label": "Instagram",
+                    "altText": "Instagram",
+                    "url": "https://www.instagram.com/daphongsila",
+                    "showIcon": true,
+                    "icon": "instagram",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "primary",
