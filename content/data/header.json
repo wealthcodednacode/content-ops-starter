@@ -79,6 +79,17 @@
                     "iconPosition": "left",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "LinkedIn",
+                    "altText": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/teguh-mulyantoro-968061341/",
+                    "showIcon": true,
+                    "icon": "linkedin",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "primary",
